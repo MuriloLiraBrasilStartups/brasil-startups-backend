@@ -1,0 +1,610 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "benefits": "Beneficios",
+    "dojo": "DOJO",
+    "plans": "Planes",
+    "contact": "Contacto",
+    "more": "Más",
+    "fund": "Fondo",
+    "transparency": "Transparencia",
+    "board": "Directorio",
+    "projects": "Proyectos",
+    "ict": "ICT",
+    "investors": "Inversores",
+    "exclusivityLetter": "Carta de Exclusividad",
+    "joinUs": "Únete"
+  },
+  "hero": {
+    "badge": "Representando startups desde 2012",
+    "title": "Impulsando el Ecosistema de Startups de Brasil",
+    "subtitle": "Somos la voz de las startups brasileñas. Conectamos emprendedores con políticas públicas, inversores y oportunidades de crecimiento.",
+    "cta": "Ver Planes",
+    "ctaSecondary": "Conoce el DOJO",
+    "stats": {
+      "startups": "Startups",
+      "benefits": "En Beneficios",
+      "events": "Eventos/Año"
+    },
+    "partners": "Socios que confían en nosotros"
+  },
+  "about": {
+    "badge": "Quiénes Somos",
+    "title": "La Asociación Brasileña de Startups",
+    "description": "Desde 2012, Brasil Startups actúa en la representación institucional de las startups brasileñas, promoviendo políticas públicas favorables, educación emprendedora y conexiones estratégicas.",
+    "mission": {
+      "title": "Misión",
+      "description": "Representar y fortalecer el ecosistema de startups brasileñas, promoviendo políticas públicas, educación y networking."
+    },
+    "vision": {
+      "title": "Visión",
+      "description": "Ser la principal referencia en representación y apoyo a las startups brasileñas, impulsando la innovación en el país."
+    },
+    "values": {
+      "title": "Valores",
+      "description": "Colaboración, innovación, transparencia, diversidad y compromiso con el desarrollo del ecosistema."
+    }
+  },
+  "areas": {
+    "badge": "Nuestra Actuación",
+    "title": "Pilares que Sustentan el Ecosistema",
+    "subtitle": "Trabajamos en múltiples frentes para fortalecer el ambiente de innovación en Brasil.",
+    "publicPolicies": {
+      "title": "Políticas Públicas",
+      "description": "Actuamos junto al gobierno para crear un ambiente regulatorio favorable para las startups."
+    },
+    "education": {
+      "title": "Educación",
+      "description": "Capacitación y formación de emprendedores a través del DOJO y programas educativos."
+    },
+    "internationalization": {
+      "title": "Internacionalización",
+      "description": "Apoyo a la expansión internacional de las startups brasileñas."
+    },
+    "networking": {
+      "title": "Networking",
+      "description": "Eventos y encuentros para conectar emprendedores, inversores y mentores."
+    },
+    "journey": {
+      "title": "Jornada de la Startup",
+      "description": "Soporte en todas las fases, desde la ideación hasta el scale-up."
+    },
+    "knowledge": {
+      "title": "Conocimiento",
+      "description": "Contenidos, estudios e investigaciones sobre el ecosistema de startups."
+    }
+  },
+  "benefits": {
+    "badge": "Beneficios Exclusivos",
+    "title": "Más de R$180.000 en Beneficios",
+    "subtitle": "Accede a herramientas y servicios premium de socios líderes del mercado con descuentos exclusivos para asociados.",
+    "viewAll": "Ver Todos",
+    "categories": {
+      "cloud": "Cloud e Infraestructura",
+      "saas": "Herramientas SaaS",
+      "financial": "Financiero y Pagos",
+      "legal": "Legal",
+      "marketing": "Marketing y Growth",
+      "hr": "RRHH y Gestión"
+    },
+    "page": {
+      "title": "Beneficios para Asociados",
+      "subtitle": "Accede a más de R$180.000 en beneficios exclusivos de socios líderes del mercado.",
+      "viewPlans": "Ver Planes"
+    }
+  },
+  "dojo": {
+    "badge": "Programa de Mentorías",
+    "title": "DOJO Brasil Startups",
+    "description": "El DOJO es el programa de mentorías de Brasil Startups, desarrollado en asociación con CDT/UnB y Finatec. Ofrecemos capacitación intensiva para startups en todas las fases de desarrollo.",
+    "learnMore": "Saber Más",
+    "accessPortal": "Acceder al Portal DOJO",
+    "features": {
+      "mentoring": {
+        "title": "Mentorías Especializadas",
+        "description": "Sesiones con especialistas del mercado"
+      },
+      "networking": {
+        "title": "Networking Calificado",
+        "description": "Conexión con fundadores e inversores"
+      },
+      "schedule": {
+        "title": "Programación Intensiva",
+        "description": "Octubre a Diciembre de 2025"
+      },
+      "certification": {
+        "title": "Certificación",
+        "description": "Asociación CDT/UnB y Finatec"
+      }
+    },
+    "page": {
+      "heroTitle": "DOJO Brasil Startups 2025",
+      "heroSubtitle": "El programa de mentorías más completo para founders que buscan crecimiento estratégico, validación de negocio y acceso a una red exclusiva de especialistas e inversores.",
+      "cta": "Quiero Participar",
+      "whatIs": "¿Qué es el DOJO?",
+      "whatIsDesc": "DOJO es el programa de mentorías de Brasil Startups, desarrollado en asociación con CDT/UnB y Finatec. Capacitamos startups en todas las fases de desarrollo con metodología práctica y orientación de especialistas reconocidos en el mercado.",
+      "methodology": "Metodología",
+      "forFounders": "Para Founders que Buscan",
+      "investment": "Inversión",
+      "investmentDesc": "Inversión accesible para startups de todas las etapas",
+      "affiliatedValue": "Asociados Brasil Startups",
+      "regularValue": "No asociados"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Acelerar tu Startup?",
+    "description": "Únete a más de 500 startups que ya forman parte de nuestra comunidad. Elige el plan ideal y comienza a disfrutar de todos los beneficios exclusivos.",
+    "button": "Ver Planes y Precios",
+    "secondary": "Hablar con el Equipo"
+  },
+  "plans": {
+    "title": "Elige el Plan Ideal para tu Startup",
+    "subtitle": "Invierte en el crecimiento de tu startup con acceso a beneficios exclusivos, mentorías y una comunidad comprometida.",
+    "badge": "Planes Flexibles",
+    "monthly": "/mes",
+    "annual": "/año",
+    "subscribe": "Suscribir Plan",
+    "popular": "Más Popular",
+    "choose": "Elegir",
+    "features": {
+      "comunidade": "Acceso a la Comunidad",
+      "eventos": "Eventos Exclusivos",
+      "networking": "Networking",
+      "descontosBasicos": "Descuentos Básicos",
+      "dojo": "Programa DOJO",
+      "mentoria": "Mentorías",
+      "beneficiosPremium": "Beneficios Premium (AWS, Azure, etc.)",
+      "suporteVip": "Soporte VIP"
+    },
+    "planDescriptions": {
+      "trailblazer": "Para startups en fase inicial de validación",
+      "builders": "Para startups en crecimiento",
+      "miners": "Para startups en fase de escalamiento"
+    },
+    "calculator": {
+      "title": "Calcula tu Ahorro",
+      "subtitle": "Selecciona los beneficios que planeas usar y ve cuánto puedes ahorrar.",
+      "badge": "Calculadora de Beneficios",
+      "selectBenefits": "Selecciona beneficios",
+      "yourSavings": "Ahorro Total Estimado",
+      "perYear": "/año",
+      "vsPlans": "¡Eso es {times}x el valor del plan Builders!"
+    },
+    "ctaSection": {
+      "title": "¿Aún tienes dudas?",
+      "subtitle": "Nuestro equipo está listo para ayudarte a elegir el mejor plan para tu startup.",
+      "button": "Hablar con el Equipo"
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "Estamos aquí para ayudar a tu startup a crecer. Contáctanos y descubre cómo podemos apoyar tu viaje emprendedor.",
+    "badge": "Contacto",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "sendYourMessage": "Envía tu Mensaje",
+      "yourName": "Tu nombre",
+      "yourEmail": "tu@email.com",
+      "phonePlaceholder": "(00) 00000-0000",
+      "subjectPlaceholder": "Asunto del mensaje",
+      "messagePlaceholder": "Escribe tu mensaje aquí...",
+      "requiredFields": "Campos obligatorios",
+      "requiredFieldsDesc": "Por favor, complete todos los campos obligatorios.",
+      "redirecting": "Redirigiendo a tu correo",
+      "completeEmail": "Completa el envío en tu cliente de correo."
+    },
+    "info": {
+      "email": "Correo electrónico",
+      "whatsapp": "WhatsApp",
+      "location": "Ubicación"
+    },
+    "letsTalk": "Hablemos",
+    "letsTalkDesc": "Ya sea para resolver dudas, conocer nuestros planes o explorar alianzas, nuestro equipo está listo para atenderte.",
+    "whatsappCta": "¿Prefieres WhatsApp?",
+    "whatsappDesc": "Respuesta rápida y directa. Haz clic abajo para iniciar una conversación.",
+    "whatsappButton": "Chatear en WhatsApp"
+  },
+  "fund": {
+    "title": "Fondo Patrimonial",
+    "subtitle": "Invierte en el futuro del ecosistema de startups brasileñas",
+    "badge": "Responsabilidad Social",
+    "donate": "Haz una Donación",
+    "learnMore": "Saber Más",
+    "hero": {
+      "title": "Impulsa la Innovación: Dona y Construye el Futuro con Brasil Startups",
+      "subtitle": "Al donar a nosotros, no solo contribuyes al desarrollo de startups innovadoras, sino que también participas activamente en la construcción de una sociedad más equitativa y sostenible.",
+      "cta": "HAZ TU DONACIÓN"
+    },
+    "impact": {
+      "card1": "Tu donación tiene el poder de transformar ideas en realidades tangibles.",
+      "card2": "Apoya proyectos con potencial de generar impactos positivos a gran escala."
+    },
+    "whatIs": {
+      "title": "¿Qué es el Fondo Patrimonial?",
+      "what": "¿Qué es?",
+      "whatDesc": "El Fondo Patrimonial de Brasil Startups es responsable de las acciones de responsabilidad social y fomento al emprendimiento del futuro, que combinan los servicios prestados con inversiones sociales para crear impactos relevantes en la sociedad.",
+      "mission": "Nuestra Misión",
+      "missionDesc": "Contribuir al ingreso de nuevos profesionales técnicos a las vacantes que surgirán hasta 2030, el sector debe abrir más de 700 mil vacantes."
+    },
+    "areas": {
+      "title": "Nuestra Actuación con el Mercado",
+      "subtitle": "La sostenibilidad es uno de nuestros pilares, por eso incentivamos y apoyamos el desarrollo de las comunidades en las que actuamos.",
+      "education": {
+        "title": "Educación",
+        "description": "Mejora de gestores y profesores, tecnologías en el aula y jóvenes preparados para el mercado laboral. ¡Invertir en el futuro de la educación es invertir en el futuro de Brasil!"
+      },
+      "entrepreneurship": {
+        "title": "Emprendimiento",
+        "description": "¡Invierte en startups e impulsa la economía! Apoya ideas: Capitaliza el futuro, crea soluciones y genera impacto. Juntos: Construyamos un ecosistema vibrante y competitivo."
+      },
+      "sustainability": {
+        "title": "Sostenibilidad (ESG)",
+        "description": "Apoya proyectos innovadores que reducen las emisiones de carbono y promueven un futuro sostenible para todos. ¡Únete a nosotros y construye un mañana más verde! ¡Invierte en Sostenibilidad!"
+      },
+      "invest": "Invertir en"
+    },
+    "stats": {
+      "title": "Para 2025, la demanda de profesionales con habilidades digitales llegará a 797 mil",
+      "source": "Datos de BRASSCOM"
+    },
+    "benefits": {
+      "title": "Sé Parte de la Revolución",
+      "reputation": {
+        "title": "Amplifica tu reputación pública.",
+        "description": "Eleva tu perfil: invierte en iniciativas que reflejan positivamente en tu imagen y fortalecen tu presencia en el mercado."
+      },
+      "marketing": {
+        "title": "Potencia tus estrategias de marketing",
+        "description": "Maximiza el alcance de tu marketing con enfoques innovadores y compromiso auténtico, elevando tu marca."
+      },
+      "esg": {
+        "title": "Puntúa en la política ESG de tu organización",
+        "description": "Contribuye a la sostenibilidad, responsabilidad social y gobernanza, reforzando el compromiso de tu empresa con ESG."
+      },
+      "community": {
+        "title": "Conecta tu negocio con la comunidad local",
+        "description": "Estrecha lazos con comunidades locales a través de alianzas estratégicas, beneficiando tu negocio y el entorno en el que operas."
+      }
+    },
+    "howItWorks": {
+      "title": "Entiende Cómo Funciona",
+      "subtitle": "Conoce todo el flujo de funcionamiento de la inversión con toda la estructura de gestión: Consejo de administración, Comité de inversión y Consejo fiscal"
+    },
+    "donation": {
+      "title": "Haz tu Donación Ahora",
+      "fundName": "Fondo Brasil Startups",
+      "description": "¡Ayuda a transformar el futuro de nuestra comunidad! Tu donación es esencial para capacitar gestores y profesores, innovar en tecnologías educativas y preparar jóvenes para el mercado laboral. ¡Contribuye ahora y sé parte de este cambio positivo!",
+      "scanQr": "Escanea el código QR para donar"
+    },
+    "faq": {
+      "title": "Preguntas Resuelve Tus Dudas"
+    }
+  },
+  "transparency": {
+    "title": "Transparencia",
+    "subtitle": "Conoce nuestros proyectos e iniciativas para fortalecer el ecosistema de startups.",
+    "badge": "Transparencia y Proyectos",
+    "heroTitle": "Nuestros Proyectos",
+    "heroSubtitle": "Brasil Startups tiene proyectos de incentivo, promoción y capacitación de startups en el Distrito Federal y alrededores. ¡Conoce nuestras iniciativas!",
+    "stats": {
+      "projects": "Proyectos Activos",
+      "entrepreneurs": "Emprendedores Impactados",
+      "investment": "Inversión Movilizada",
+      "trainings": "Capacitaciones Realizadas"
+    },
+    "visitSite": "Visitar el sitio",
+    "indicators": "Panel de Indicadores",
+    "cta": {
+      "title": "¿Quieres ser parte de nuestros proyectos?",
+      "subtitle": "Contáctanos y descubre cómo participar en nuestras iniciativas de fomento al ecosistema de startups.",
+      "button": "Contáctanos"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Conoce nuestras iniciativas para fortalecer el ecosistema de startups.",
+    "badge": "Nuestras Iniciativas",
+    "heroTitle": "Nuestros Proyectos",
+    "heroSubtitle": "Brasil Startups desarrolla proyectos de incentivo, promoción y capacitación de startups. ¡Conoce nuestras iniciativas que impactan emprendedores en todo Brasil!",
+    "stats": {
+      "projects": "Proyectos Activos",
+      "entrepreneurs": "Emprendedores Impactados",
+      "investment": "Inversión Movilizada",
+      "trainings": "Capacitaciones Realizadas"
+    },
+    "visitSite": "Visitar Sitio",
+    "learnMore": "Saber Más",
+    "indicators": "Panel de Indicadores",
+    "cta": {
+      "title": "¿Quieres ser parte de nuestros proyectos?",
+      "subtitle": "Contáctanos y descubre cómo participar en nuestras iniciativas o asóciate para acceder a todos los beneficios.",
+      "button": "Contáctanos",
+      "joinButton": "Únete"
+    }
+  },
+  "board": {
+    "title": "Directorio",
+    "subtitle": "Conoce a los líderes que trabajan para fortalecer el ecosistema de startups en Brasil.",
+    "badge": "Nuestro Equipo",
+    "executive": "Directorio Ejecutivo",
+    "executiveDesc": "Liderazgo estratégico y operativo de la asociación.",
+    "directors": "Directores",
+    "directorsDesc": "Responsables por áreas estratégicas de la asociación.",
+    "advisors": "Consejeros",
+    "advisorsDesc": "Orientación estratégica y fiscalización de las actividades.",
+    "viewLinkedIn": "Ver perfil en LinkedIn",
+    "roles": {
+      "president": "Presidente",
+      "vicePresident": "Vicepresidente",
+      "adminFinance": "Director Administrativo Financiero",
+      "rdDirector": "Directora de I+D",
+      "fiscalCouncil": "Consejo Fiscal",
+      "advisor": "Consejero"
+    }
+  },
+  "aboutPage": {
+    "badge": "Quiénes Somos",
+    "title": "La Asociación Brasileña de Startups",
+    "subtitle": "Desde 2012, Brasil Startups actúa en la representación institucional de las startups brasileñas, conectando emprendedores con fondos de inversión, aceleradoras y grandes empresas.",
+    "stats": {
+      "founded": "Año de Fundación",
+      "startups": "Startups Asociadas",
+      "events": "Eventos por Año",
+      "benefits": "En Beneficios"
+    },
+    "history": {
+      "title": "Nuestra Historia",
+      "p1": "Brasil Startups surgió con el propósito de inspirar, capacitar y apoyar el desarrollo del ecosistema de startups. Generamos conexiones personales, buscando compartir conocimiento con el propósito de fomentar el ecosistema de innovación, desarrollo social y económico.",
+      "p2": "Conectamos a nuestros asociados con fondos de inversión y aceleradoras, protagonizamos acciones de acercamiento con el Gobierno y grandes empresas, además de promover eventos en todo el país.",
+      "p3": "Somos plurales: emprendedores, entidades gubernamentales, grandes empresas, fondos de inversión, espacios de coworking, aceleradoras e incubadoras, todos esenciales para las diferentes etapas del viaje de un emprendedor de startup."
+    },
+    "community": "Nuestra Comunidad",
+    "valuesTitle": "Misión, Visión y Valores",
+    "valuesSubtitle": "Los principios que guían nuestra actuación en el ecosistema de startups.",
+    "mission": {
+      "title": "Misión",
+      "description": "Inspirar, capacitar y apoyar el desarrollo del ecosistema de startups, generando conexiones y compartiendo conocimiento para fomentar la innovación y el desarrollo social y económico."
+    },
+    "vision": {
+      "title": "Visión",
+      "description": "Ser la principal referencia en representación y apoyo a las startups brasileñas, impulsando la innovación y el emprendimiento en el país."
+    },
+    "values": {
+      "title": "Valores",
+      "description": "Colaboración, innovación, transparencia, diversidad y compromiso con el desarrollo sostenible del ecosistema de startups."
+    },
+    "pillarsTitle": "Pilares de Actuación",
+    "pillarsSubtitle": "Trabajamos en múltiples frentes para fortalecer el ambiente de innovación en Brasil.",
+    "pillars": {
+      "policies": {
+        "title": "Políticas Públicas",
+        "description": "Somos agentes representativos, ejerciendo influencia en políticas gubernamentales a favor de las startups brasileñas."
+      },
+      "education": {
+        "title": "Educación",
+        "description": "Capacitamos a futuros y actuales emprendedores a través de acciones, mentorías y el programa DOJO."
+      },
+      "internationalization": {
+        "title": "Internacionalización",
+        "description": "Promovemos el intercambio de startups, fomentando el intercambio de experiencias y crecimiento a escala global."
+      },
+      "networking": {
+        "title": "Networking",
+        "description": "Promovemos actividades y eventos para desarrollar nuestra red de asociados y generar conexiones y oportunidades."
+      }
+    },
+    "fund": {
+      "badge": "Responsabilidad Social",
+      "title": "Fondo Patrimonial",
+      "p1": "El Fondo Patrimonial de Brasil Startups es responsable de las acciones de responsabilidad social y fomento al emprendimiento del futuro, que combinan los servicios prestados con inversiones sociales para crear impactos relevantes en la sociedad.",
+      "p2": "Promovemos acciones, contribuimos localmente con los programas globales de la ONU y actuamos con la movilización de la opinión pública para promover los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 de las Naciones Unidas."
+    },
+    "directorsTitle": "Directorio",
+    "directorsSubtitle": "Conoce a los miembros del directorio de Brasil Startups.",
+    "advisorsTitle": "Consejeros",
+    "structureTitle": "Estructura Organizacional",
+    "structure": {
+      "executive": {
+        "name": "Directorio Ejecutivo",
+        "role": "Gestión estratégica y operativa de la asociación"
+      },
+      "fiscal": {
+        "name": "Consejo Fiscal",
+        "role": "Fiscalización y transparencia de las actividades"
+      },
+      "advisory": {
+        "name": "Consejo Consultivo",
+        "role": "Orientación estratégica y mentoría"
+      }
+    }
+  },
+  "footer": {
+    "description": "La mayor comunidad de startups de Brasil. Representación, networking y crecimiento desde 2012.",
+    "institutional": "Institucional",
+    "associates": "Asociados",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "partner": "Socio",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "brandManual": "Manual de marca"
+  },
+  "brand": {
+    "badge": "Identidad Visual",
+    "title": "Manual de Uso de la Marca",
+    "subtitle": "Recursos y directrices para que socios y patrocinadores utilicen correctamente la marca Brasil Startups.",
+    "download": "Descargar",
+    "logoSection": {
+      "title": "Nuestro Logo",
+      "description": "El logo de Brasil Startups debe ser utilizado respetando las proporciones y espaciados definidos.",
+      "lightBg": "Fondo Claro",
+      "darkBg": "Fondo Oscuro"
+    },
+    "colorsSection": {
+      "title": "Paleta de Colores",
+      "description": "Utilice solo los colores oficiales de la marca para mantener la consistencia visual."
+    },
+    "colors": {
+      "primaryDesc": "Color principal de la marca",
+      "accentDesc": "Color de acento",
+      "lightDesc": "Fondos y elementos claros",
+      "darkDesc": "Textos y elementos oscuros"
+    },
+    "guidelinesSection": {
+      "title": "Directrices de Uso",
+      "description": "Siga estas orientaciones para garantizar el uso correcto de la marca."
+    },
+    "guidelines": {
+      "spacing": {
+        "title": "Área de Protección",
+        "description": "Mantenga un área de respiro alrededor del logo equivalente a la altura del símbolo."
+      },
+      "contrast": {
+        "title": "Contraste Adecuado",
+        "description": "Garantice que el logo tenga contraste suficiente con el fondo para buena legibilidad."
+      },
+      "distortion": {
+        "title": "Sin Distorsiones",
+        "description": "Nunca distorsione, estire o modifique las proporciones del logo."
+      },
+      "colors": {
+        "title": "Colores Oficiales",
+        "description": "Utilice solo las versiones de colores aprobadas del logo."
+      }
+    },
+    "downloadSection": {
+      "title": "Descarga de Materiales",
+      "description": "Descargue los archivos oficiales de la marca para uso en sus comunicaciones."
+    },
+    "assets": {
+      "logoPdf": "Logo Principal",
+      "logoPdfDesc": "Logo en formato PDF para impresión y uso digital.",
+      "logoStandard": "Logo Estándar",
+      "logoStandardDesc": "Versión estándar del logo en PDF.",
+      "colors": "Guía de Colores",
+      "colorsDesc": "Paleta de colores oficial en PDF.",
+      "miv": "Manual Completo",
+      "mivDesc": "Manual de Identidad Visual completo.",
+      "colorsPs": "Colores (PS)",
+      "colorsPsDesc": "Archivo de colores para edición profesional."
+    },
+    "cta": {
+      "title": "¿Dudas sobre el uso de la marca?",
+      "description": "Contáctenos para aclarar cualquier duda sobre la utilización de la marca Brasil Startups.",
+      "button": "Hablar con el Equipo"
+    }
+  },
+  "ict": {
+    "badge": "ICT Brasil Startups",
+    "heroTitle": "Ciencia, Tecnología e Innovación al servicio del crecimiento de empresas y startups brasileñas",
+    "heroSubtitle": "El brazo de Ciencia y Tecnología de Brasil Startups",
+    "subdomain": "Subdominio",
+    "connectCta": "Quiero conectarme al ICT Brasil Startups",
+    "whatIsTitle": "¿Qué es ICT Brasil Startups?",
+    "whatIsDesc1": "Brasil Startups presenta el ICT Brasil Startups, un Instituto de Ciencia y Tecnología (ICT) privado, creado para estructurar, ejecutar y transformar Investigación, Desarrollo e Innovación (I+D+I) en ventaja competitiva, impacto económico y beneficio fiscal.",
+    "whatIsHighlight1": "Aquí, la ciencia encuentra el mercado.",
+    "whatIsHighlight2": "La innovación deja de ser un costo y se convierte en estrategia.",
+    "features": {
+      "research": "Investigación científica aplicada",
+      "development": "Desarrollo tecnológico",
+      "transfer": "Transferencia de tecnología",
+      "cooperation": "Proyectos cooperativos",
+      "governance": "Estructuración y gobernanza de I+D+I"
+    },
+    "whyTitle": "¿Por qué un ICT Privado?",
+    "whySubtitle": "Las empresas y ecosistemas de alto rendimiento no innovan por casualidad. Crean sus propios ambientes institucionales para desarrollar tecnología, reducir riesgos y acelerar resultados.",
+    "why": {
+      "why1": "Estructurar proyectos continuos de I+D+I",
+      "why2": "Conectar startups, empresas, universidades e investigadores",
+      "why3": "Transformar conocimiento científico en soluciones de mercado",
+      "why4": "Viabilizar acceso a incentivos fiscales y programas de fomento",
+      "why5": "Fortalecer políticas públicas y agendas estratégicas de innovación"
+    },
+    "forWhomTitle": "¿Para quién fue creado el ICT?",
+    "audiences": {
+      "startups": {
+        "title": "🚀 Startups",
+        "startupsF1": "Desarrollo tecnológico estructurado",
+        "startupsF2": "Apoyo a deep techs y proyectos de alta complejidad",
+        "startupsF3": "Validación científica y tecnológica",
+        "startupsF4": "Acceso a empresas, capital y mercado"
+      },
+      "companies": {
+        "title": "🏢 Empresas",
+        "companiesF1": "Innovación abierta con gobernanza",
+        "companiesF2": "Reducción de riesgo tecnológico",
+        "companiesF3": "Creación de activos estratégicos y propiedad intelectual",
+        "companiesF4": "Proyectos alineados con ESG y competitividad"
+      },
+      "universities": {
+        "title": "🎓 Universidades e Investigadores",
+        "universitiesF1": "Proyectos aplicados al mercado",
+        "universitiesF2": "Transferencia de tecnología",
+        "universitiesF3": "Nuevas fuentes de financiamiento",
+        "universitiesF4": "Conexión con startups y empresas"
+      },
+      "government": {
+        "title": "🏛️ Gobierno e Instituciones",
+        "governmentF1": "Ejecución de políticas públicas de innovación",
+        "governmentF2": "Programas prioritarios y sectoriales",
+        "governmentF3": "Desarrollo económico y regional"
+      }
+    },
+    "leiBem": {
+      "badge": "Lei do Bem (Ley del Bien)",
+      "title": "Innovación que genera beneficio fiscal",
+      "description": "Las empresas que invierten en Investigación, Desarrollo e Innovación (I+D+I) pueden reducir su carga tributaria a través de la Lei do Bem (Ley nº 11.196/2005). El ICT Brasil Startups actúa como ambiente estructurador, ejecutor y validador de proyectos elegibles a la Lei do Bem.",
+      "cta": "Quiero usar la Lei do Bem con ICT Brasil Startups",
+      "benefitsTitle": "Lo que tu empresa puede obtener",
+      "benefits": {
+        "leiBemB1": "Deducir hasta 34% de las inversiones en I+D+I del IRPJ y CSLL",
+        "leiBemB2": "Comprobar técnicamente los proyectos ante el MCTI",
+        "leiBemB3": "Reducir riesgos jurídicos y operacionales",
+        "leiBemB4": "Crear activos tecnológicos y propiedad intelectual",
+        "leiBemB5": "Fortalecer su agenda de innovación y ESG"
+      },
+      "highlight": "La innovación deja de ser solo un gasto y se convierte en inteligencia financiera."
+    },
+    "howWeWorkTitle": "Cómo actuamos",
+    "howWeWork": {
+      "howWeWork1": "Diagnóstico de elegibilidad a la Lei do Bem",
+      "howWeWork2": "Estructuración técnica de proyectos de I+D+I",
+      "howWeWork3": "Conexión con startups, universidades e investigadores",
+      "howWeWork4": "Ejecución con gobernanza y seguimiento",
+      "howWeWork5": "Apoyo en documentación e informes técnicos al MCTI"
+    },
+    "howWeWorkFooter": "Todo dentro de un ICT privado, con método, compliance y visión de largo plazo.",
+"cta": {
+      "title": "El llamado",
+      "subtitle": "El ICT Brasil Startups es una invitación para quienes quieren construir tecnología de verdad, con método, impacto y retorno económico. Si tu empresa ya invierte — o quiere invertir — en innovación, llegó la hora de estructurar esto de forma estratégica.",
+      "diagnostic": "Programar diagnóstico de elegibilidad",
+      "startProject": "Iniciar proyecto con ICT Brasil Startups",
+      "learnMore": "Conocer el ICT"
+    },
+    "closing": {
+      "text": "El futuro de la innovación brasileña pasa por ciencia aplicada, colaboración y estrategia. Con el ICT Brasil Startups, tu empresa innova más, reduce riesgos, accede a incentivos fiscales y genera impacto real en el ecosistema.",
+      "tagline": "Ciencia. Tecnología. Startups. Resultado."
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "all": "Todos"
+  }
+}

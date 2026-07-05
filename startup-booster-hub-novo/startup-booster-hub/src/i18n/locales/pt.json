@@ -1,0 +1,610 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "benefits": "Benefícios",
+    "dojo": "DOJO",
+    "plans": "Planos",
+    "contact": "Contato",
+    "more": "Mais",
+    "fund": "Fundo",
+    "transparency": "Transparência",
+    "board": "Diretoria",
+    "projects": "Projetos",
+    "ict": "ICT",
+    "investors": "Investidores",
+    "exclusivityLetter": "Carta de Exclusividade",
+    "joinUs": "Associe-se"
+  },
+  "hero": {
+    "badge": "Representando startups desde 2012",
+    "title": "Impulsionando o Ecossistema de Startups do Brasil",
+    "subtitle": "Somos a voz das startups brasileiras. Conectamos empreendedores a políticas públicas, investidores e oportunidades de crescimento.",
+    "cta": "Ver Planos",
+    "ctaSecondary": "Conheça o DOJO",
+    "stats": {
+      "startups": "Startups",
+      "benefits": "Em Benefícios",
+      "events": "Eventos/Ano"
+    },
+    "partners": "Parceiros que confiam em nós"
+  },
+  "about": {
+    "badge": "Quem Somos",
+    "title": "A Associação Brasileira de Startups",
+    "description": "Desde 2012, a Brasil Startups atua na representação institucional das startups brasileiras, promovendo políticas públicas favoráveis, educação empreendedora e conexões estratégicas.",
+    "mission": {
+      "title": "Missão",
+      "description": "Representar e fortalecer o ecossistema de startups brasileiras, promovendo políticas públicas, educação e networking."
+    },
+    "vision": {
+      "title": "Visão",
+      "description": "Ser a principal referência em representação e apoio às startups brasileiras, impulsionando a inovação no país."
+    },
+    "values": {
+      "title": "Valores",
+      "description": "Colaboração, inovação, transparência, diversidade e compromisso com o desenvolvimento do ecossistema."
+    }
+  },
+  "areas": {
+    "badge": "Nossa Atuação",
+    "title": "Pilares que Sustentam o Ecossistema",
+    "subtitle": "Trabalhamos em múltiplas frentes para fortalecer o ambiente de inovação no Brasil.",
+    "publicPolicies": {
+      "title": "Políticas Públicas",
+      "description": "Atuamos junto ao governo para criar um ambiente regulatório favorável às startups."
+    },
+    "education": {
+      "title": "Educação",
+      "description": "Capacitação e formação de empreendedores através do DOJO e programas educacionais."
+    },
+    "internationalization": {
+      "title": "Internacionalização",
+      "description": "Apoio à expansão internacional das startups brasileiras."
+    },
+    "networking": {
+      "title": "Networking",
+      "description": "Eventos e encontros para conexão entre empreendedores, investidores e mentores."
+    },
+    "journey": {
+      "title": "Jornada da Startup",
+      "description": "Suporte em todas as fases, da ideação ao scale-up."
+    },
+    "knowledge": {
+      "title": "Conhecimento",
+      "description": "Conteúdos, estudos e pesquisas sobre o ecossistema de startups."
+    }
+  },
+  "benefits": {
+    "badge": "Benefícios Exclusivos",
+    "title": "Mais de R$180.000 em Benefícios",
+    "subtitle": "Acesse ferramentas e serviços premium de parceiros líderes de mercado com descontos exclusivos para associados.",
+    "viewAll": "Ver Todos",
+    "categories": {
+      "cloud": "Cloud & Infraestrutura",
+      "saas": "Ferramentas SaaS",
+      "financial": "Financeiro & Pagamentos",
+      "legal": "Jurídico",
+      "marketing": "Marketing & Growth",
+      "hr": "RH & Gestão"
+    },
+    "page": {
+      "title": "Benefícios para Associados",
+      "subtitle": "Acesse mais de R$180.000 em benefícios exclusivos de parceiros líderes de mercado.",
+      "viewPlans": "Ver Planos"
+    }
+  },
+  "dojo": {
+    "badge": "Programa de Mentorias",
+    "title": "DOJO Brasil Startups",
+    "description": "O DOJO é o programa de mentorias da Brasil Startups, desenvolvido em parceria com o CDT/UnB e Finatec. Oferecemos capacitação intensiva para startups em todas as fases de desenvolvimento.",
+    "learnMore": "Saiba Mais",
+    "accessPortal": "Acessar Portal DOJO",
+    "features": {
+      "mentoring": {
+        "title": "Mentorias Especializadas",
+        "description": "Sessões com especialistas do mercado"
+      },
+      "networking": {
+        "title": "Networking Qualificado",
+        "description": "Conexão com fundadores e investidores"
+      },
+      "schedule": {
+        "title": "Programação Intensiva",
+        "description": "Outubro a Dezembro de 2025"
+      },
+      "certification": {
+        "title": "Certificação",
+        "description": "Parceria CDT/UnB e Finatec"
+      }
+    },
+    "page": {
+      "heroTitle": "DOJO Brasil Startups 2025",
+      "heroSubtitle": "O programa de mentorias mais completo para founders que buscam crescimento estratégico, validação de negócio e acesso a uma rede exclusiva de especialistas e investidores.",
+      "cta": "Quero Participar",
+      "whatIs": "O que é o DOJO?",
+      "whatIsDesc": "O DOJO é o programa de mentorias da Brasil Startups, desenvolvido em parceria com o CDT/UnB e Finatec. Capacitamos startups em todas as fases de desenvolvimento com metodologia prática e orientação de especialistas reconhecidos no mercado.",
+      "methodology": "Metodologia",
+      "forFounders": "Para Founders que Buscam",
+      "investment": "Investimento",
+      "investmentDesc": "Investimento acessível para startups de todos os estágios",
+      "affiliatedValue": "Associados Brasil Startups",
+      "regularValue": "Não associados"
+    }
+  },
+  "cta": {
+    "title": "Pronto para Acelerar sua Startup?",
+    "description": "Junte-se a mais de 500 startups que já fazem parte da nossa comunidade. Escolha o plano ideal e comece a aproveitar todos os benefícios exclusivos.",
+    "button": "Ver Planos e Preços",
+    "secondary": "Falar com a Equipe"
+  },
+  "plans": {
+    "title": "Escolha o Plano Ideal para sua Startup",
+    "subtitle": "Invista no crescimento da sua startup com acesso a benefícios exclusivos, mentorias e uma comunidade engajada.",
+    "badge": "Planos Flexíveis",
+    "monthly": "/mês",
+    "annual": "/ano",
+    "subscribe": "Assinar Plano",
+    "popular": "Mais Popular",
+    "choose": "Escolher",
+    "features": {
+      "comunidade": "Acesso à Comunidade",
+      "eventos": "Eventos Exclusivos",
+      "networking": "Networking",
+      "descontosBasicos": "Descontos Básicos",
+      "dojo": "Programa DOJO",
+      "mentoria": "Mentorias",
+      "beneficiosPremium": "Benefícios Premium (AWS, Azure, etc.)",
+      "suporteVip": "Suporte VIP"
+    },
+    "planDescriptions": {
+      "trailblazer": "Para startups em fase inicial de validação",
+      "builders": "Para startups em crescimento",
+      "miners": "Para startups em fase de escala"
+    },
+    "calculator": {
+      "title": "Calcule sua Economia",
+      "subtitle": "Selecione os benefícios que você pretende utilizar e veja quanto pode economizar.",
+      "badge": "Calculadora de Benefícios",
+      "selectBenefits": "Selecione os benefícios",
+      "yourSavings": "Economia Total Estimada",
+      "perYear": "/ano",
+      "vsPlans": "Isso é {times}x o valor do plano Builders!"
+    },
+    "ctaSection": {
+      "title": "Ainda tem dúvidas?",
+      "subtitle": "Nossa equipe está pronta para ajudar você a escolher o melhor plano para sua startup.",
+      "button": "Falar com a Equipe"
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Estamos aqui para ajudar sua startup a crescer. Entre em contato conosco e descubra como podemos apoiar sua jornada empreendedora.",
+    "badge": "Contato",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "sendYourMessage": "Envie sua Mensagem",
+      "yourName": "Seu nome",
+      "yourEmail": "seu@email.com",
+      "phonePlaceholder": "(00) 00000-0000",
+      "subjectPlaceholder": "Assunto da mensagem",
+      "messagePlaceholder": "Escreva sua mensagem aqui...",
+      "requiredFields": "Campos obrigatórios",
+      "requiredFieldsDesc": "Por favor, preencha todos os campos obrigatórios.",
+      "redirecting": "Redirecionando para seu email",
+      "completeEmail": "Complete o envio no seu cliente de email."
+    },
+    "info": {
+      "email": "E-mail",
+      "whatsapp": "WhatsApp",
+      "location": "Localização"
+    },
+    "letsTalk": "Vamos Conversar",
+    "letsTalkDesc": "Seja para tirar dúvidas, conhecer nossos planos ou explorar parcerias, nossa equipe está pronta para atender você.",
+    "whatsappCta": "Prefere WhatsApp?",
+    "whatsappDesc": "Resposta rápida e direta. Clique abaixo para iniciar uma conversa.",
+    "whatsappButton": "Falar no WhatsApp"
+  },
+  "fund": {
+    "title": "Fundo Patrimonial",
+    "subtitle": "Invista no futuro do ecossistema de startups brasileiras",
+    "badge": "Responsabilidade Social",
+    "donate": "Faça sua Doação",
+    "learnMore": "Saiba Mais",
+    "hero": {
+      "title": "Impulsione a Inovação: Doe e Construa o Futuro com a Brasil Startups",
+      "subtitle": "Ao fazer sua doação conosco, você não apenas contribui para o desenvolvimento de startups inovadoras, mas também participa ativamente na construção de uma sociedade mais equitativa e sustentável.",
+      "cta": "FAÇA SUA DOAÇÃO"
+    },
+    "impact": {
+      "card1": "Sua doação tem o poder de transformar ideias em realidades tangíveis.",
+      "card2": "Apoie projetos com potencial de gerar impactos positivos em larga escala."
+    },
+    "whatIs": {
+      "title": "O que é o Fundo Patrimonial?",
+      "what": "O que é?",
+      "whatDesc": "O Fundo Patrimonial da Brasil Startups é responsável pelas ações de responsabilidade social e de fomento ao empreendedorismo do futuro, que aliam os serviços prestados a investimentos sociais para criar impactos relevantes na sociedade.",
+      "mission": "Nossa Missão",
+      "missionDesc": "Contribuir com o ingresso de novos profissionais técnico às vagas que surgirão até 2030, o setor deve abrir mais de 700 mil vagas."
+    },
+    "areas": {
+      "title": "Nossa Atuação com o Mercado",
+      "subtitle": "A sustentabilidade é um dos nosso pilares, por isso incentivamos e apoiamos o desenvolvimento das comunidades em que atuamos.",
+      "education": {
+        "title": "Educação",
+        "description": "Aprimoramento de gestores e professores, tecnologias em sala de aula e jovens preparados para o mercado de trabalho. Investir no futuro da educação é investir no futuro do Brasil!"
+      },
+      "entrepreneurship": {
+        "title": "Empreendedorismo",
+        "description": "Invista em startups e impulsione a economia! Apoie ideias: Capitalize o futuro, crie soluções e gere impacto. Juntos: Construamos um ecossistema vibrante e competitivo."
+      },
+      "sustainability": {
+        "title": "Sustentabilidade (ESG)",
+        "description": "Apoie projetos inovadores que reduzem a emissão de carbono e promovem um futuro sustentável para todos. Junte-se a nós e construa um amanhã mais verde! Invista em Sustentabilidade!"
+      },
+      "invest": "Investir em"
+    },
+    "stats": {
+      "title": "Até 2025, a busca por profissionais com habilidades digitais chegará a 797 mil",
+      "source": "Dados da BRASSCOM"
+    },
+    "benefits": {
+      "title": "Faça Parte da Revolução",
+      "reputation": {
+        "title": "Amplifique a sua reputação pública.",
+        "description": "Eleve seu perfil: invista em iniciativas que refletem positivamente na sua imagem e fortalecem sua presença no mercado."
+      },
+      "marketing": {
+        "title": "Potencialize suas estratégias de marketing",
+        "description": "Maximize o alcance do seu marketing com abordagens inovadoras e engajamento autêntico, elevando sua marca."
+      },
+      "esg": {
+        "title": "Pontue na política de ESG da sua organização",
+        "description": "Contribua para a sustentabilidade, responsabilidade social e governança, reforçando o compromisso da sua empresa com o ESG."
+      },
+      "community": {
+        "title": "Conecte-se os seus negócios com a comunidade local",
+        "description": "Estreite laços com comunidades locais através de parcerias estratégicas, beneficiando seu negócio e o meio em que atua."
+      }
+    },
+    "howItWorks": {
+      "title": "Entenda Como Funciona",
+      "subtitle": "Conheça todo o fluxo de funcionamento do investimento com toda a estrutura de gestão com: Conselho de administração, Comitê de investimento e Conselho fiscal"
+    },
+    "donation": {
+      "title": "Faça sua Doação Agora",
+      "fundName": "Fundo Brasil Startups",
+      "description": "Ajude a transformar o futuro de nossa comunidade! Sua doação é essencial para qualificar gestores e professores, inovar em tecnologias educacionais e preparar jovens para o mercado de trabalho. Contribua agora e seja parte dessa mudança positiva!",
+      "scanQr": "Escaneie o QR Code para doar"
+    },
+    "faq": {
+      "title": "Perguntas Tire Suas Dúvidas"
+    }
+  },
+  "transparency": {
+    "title": "Transparência",
+    "subtitle": "Conheça nossos projetos e iniciativas para fortalecer o ecossistema de startups.",
+    "badge": "Transparência & Projetos",
+    "heroTitle": "Nossos Projetos",
+    "heroSubtitle": "A Brasil Startups possui projetos de incentivo, promoção e capacitação de startups no Distrito Federal e entorno. Conheça nossas iniciativas!",
+    "stats": {
+      "projects": "Projetos Ativos",
+      "entrepreneurs": "Empreendedores Impactados",
+      "investment": "Investimento Mobilizado",
+      "trainings": "Capacitações Realizadas"
+    },
+    "visitSite": "Entre no site",
+    "indicators": "Painel de Indicadores",
+    "cta": {
+      "title": "Quer fazer parte dos nossos projetos?",
+      "subtitle": "Entre em contato conosco e descubra como participar das nossas iniciativas de fomento ao ecossistema de startups.",
+      "button": "Entre em contato"
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Conheça nossas iniciativas para fortalecer o ecossistema de startups.",
+    "badge": "Nossas Iniciativas",
+    "heroTitle": "Nossos Projetos",
+    "heroSubtitle": "A Brasil Startups desenvolve projetos de incentivo, promoção e capacitação de startups. Conheça nossas iniciativas que impactam empreendedores em todo o Brasil!",
+    "stats": {
+      "projects": "Projetos Ativos",
+      "entrepreneurs": "Empreendedores Impactados",
+      "investment": "Investimento Mobilizado",
+      "trainings": "Capacitações Realizadas"
+    },
+    "visitSite": "Visitar Site",
+    "learnMore": "Saiba Mais",
+    "indicators": "Painel de Indicadores",
+    "cta": {
+      "title": "Quer fazer parte dos nossos projetos?",
+      "subtitle": "Entre em contato conosco e descubra como participar das nossas iniciativas ou associe-se para ter acesso a todos os benefícios.",
+      "button": "Entre em Contato",
+      "joinButton": "Associe-se"
+    }
+  },
+  "board": {
+    "title": "Diretoria",
+    "subtitle": "Conheça os líderes que trabalham para fortalecer o ecossistema de startups no Brasil.",
+    "badge": "Nossa Equipe",
+    "executive": "Diretoria Executiva",
+    "executiveDesc": "Liderança estratégica e operacional da associação.",
+    "directors": "Diretores",
+    "directorsDesc": "Responsáveis por áreas estratégicas da associação.",
+    "advisors": "Conselheiros",
+    "advisorsDesc": "Orientação estratégica e fiscalização das atividades.",
+    "viewLinkedIn": "Ver perfil no LinkedIn",
+    "roles": {
+      "president": "Presidente",
+      "vicePresident": "Vice-Presidente",
+      "adminFinance": "Diretor Administrativo Financeiro",
+      "rdDirector": "Diretora de P&D",
+      "fiscalCouncil": "Conselho Fiscal",
+      "advisor": "Conselheiro"
+    }
+  },
+  "aboutPage": {
+    "badge": "Quem Somos",
+    "title": "A Associação Brasileira de Startups",
+    "subtitle": "Desde 2012, a Brasil Startups atua na representação institucional das startups brasileiras, conectando empreendedores a fundos de investimento, aceleradoras e grandes empresas.",
+    "stats": {
+      "founded": "Ano de Fundação",
+      "startups": "Startups Associadas",
+      "events": "Eventos por Ano",
+      "benefits": "Em Benefícios"
+    },
+    "history": {
+      "title": "Nossa História",
+      "p1": "A Brasil Startups surgiu do propósito de inspirar, capacitar e apoiar o desenvolvimento do ecossistema de startups. Geramos conexões pessoais, buscando compartilhar conhecimento com o propósito de fomentar o ecossistema de inovação, desenvolvimento social e econômico.",
+      "p2": "Conectamos nossos associados a fundos de investimento e aceleradoras, protagonizamos ações de aproximação com o Governo e grandes empresas, além de promover eventos em todo o país.",
+      "p3": "Somos plurais: empreendedores, entidades governamentais, grandes empresas, fundos de investimento, espaços de coworking, aceleradoras e incubadoras, todos essenciais para os diferentes estágios da jornada de um empreendedor de startup."
+    },
+    "community": "Nossa Comunidade",
+    "valuesTitle": "Missão, Visão e Valores",
+    "valuesSubtitle": "Os princípios que guiam nossa atuação no ecossistema de startups.",
+    "mission": {
+      "title": "Missão",
+      "description": "Inspirar, capacitar e apoiar o desenvolvimento do ecossistema de startups, gerando conexões e compartilhando conhecimento para fomentar a inovação e o desenvolvimento social e econômico."
+    },
+    "vision": {
+      "title": "Visão",
+      "description": "Ser a principal referência em representação e apoio às startups brasileiras, impulsionando a inovação e o empreendedorismo no país."
+    },
+    "values": {
+      "title": "Valores",
+      "description": "Colaboração, inovação, transparência, diversidade e compromisso com o desenvolvimento sustentável do ecossistema de startups."
+    },
+    "pillarsTitle": "Pilares de Atuação",
+    "pillarsSubtitle": "Trabalhamos em múltiplas frentes para fortalecer o ambiente de inovação no Brasil.",
+    "pillars": {
+      "policies": {
+        "title": "Políticas Públicas",
+        "description": "Somos agentes representativos, exercendo influência em políticas governamentais em prol das startups brasileiras."
+      },
+      "education": {
+        "title": "Educação",
+        "description": "Capacitamos futuros e atuais empreendedores através de ações, mentorias e o programa DOJO."
+      },
+      "internationalization": {
+        "title": "Internacionalização",
+        "description": "Promovemos o intercâmbio de startups, fomentando a troca de experiência e crescimento em escala global."
+      },
+      "networking": {
+        "title": "Networking",
+        "description": "Promovemos atividades e eventos para desenvolver nossa rede de associados e gerar conexões e oportunidades."
+      }
+    },
+    "fund": {
+      "badge": "Responsabilidade Social",
+      "title": "Fundo Patrimonial",
+      "p1": "O Fundo Patrimonial da Brasil Startups é responsável pelas ações de responsabilidade social e de fomento ao empreendedorismo do futuro, que aliam os serviços prestados a investimentos sociais para criar impactos relevantes na sociedade.",
+      "p2": "Promovemos ações, contribuímos localmente com os programas globais da ONU e atuamos com a mobilização da opinião pública a fim de promover os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 das Nações Unidas."
+    },
+    "directorsTitle": "Diretoria",
+    "directorsSubtitle": "Conheça os membros da diretoria da Brasil Startups.",
+    "advisorsTitle": "Conselheiros",
+    "structureTitle": "Estrutura Organizacional",
+    "structure": {
+      "executive": {
+        "name": "Diretoria Executiva",
+        "role": "Gestão estratégica e operacional da associação"
+      },
+      "fiscal": {
+        "name": "Conselho Fiscal",
+        "role": "Fiscalização e transparência das atividades"
+      },
+      "advisory": {
+        "name": "Conselho Consultivo",
+        "role": "Orientação estratégica e mentoria"
+      }
+    }
+  },
+  "footer": {
+    "description": "A maior comunidade de startups do Brasil. Representação, networking e crescimento desde 2012.",
+    "institutional": "Institucional",
+    "associates": "Associados",
+    "resources": "Recursos",
+    "contact": "Contato",
+    "partner": "Parceiro",
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "brandManual": "Manual de uso da marca"
+  },
+  "brand": {
+    "badge": "Identidade Visual",
+    "title": "Manual de Uso da Marca",
+    "subtitle": "Recursos e diretrizes para parceiros e patrocinadores utilizarem corretamente a marca Brasil Startups.",
+    "download": "Baixar",
+    "logoSection": {
+      "title": "Nossa Logo",
+      "description": "A logo Brasil Startups deve ser utilizada respeitando as proporções e espaçamentos definidos.",
+      "lightBg": "Fundo Claro",
+      "darkBg": "Fundo Escuro"
+    },
+    "colorsSection": {
+      "title": "Paleta de Cores",
+      "description": "Utilize apenas as cores oficiais da marca para manter a consistência visual."
+    },
+    "colors": {
+      "primaryDesc": "Cor principal da marca",
+      "accentDesc": "Cor de destaque",
+      "lightDesc": "Fundos e elementos claros",
+      "darkDesc": "Textos e elementos escuros"
+    },
+    "guidelinesSection": {
+      "title": "Diretrizes de Uso",
+      "description": "Siga estas orientações para garantir o uso correto da marca."
+    },
+    "guidelines": {
+      "spacing": {
+        "title": "Área de Proteção",
+        "description": "Mantenha uma área de respiro ao redor da logo equivalente à altura do símbolo."
+      },
+      "contrast": {
+        "title": "Contraste Adequado",
+        "description": "Garanta que a logo tenha contraste suficiente com o fundo para boa legibilidade."
+      },
+      "distortion": {
+        "title": "Sem Distorções",
+        "description": "Nunca distorça, estique ou modifique as proporções da logo."
+      },
+      "colors": {
+        "title": "Cores Oficiais",
+        "description": "Utilize apenas as versões de cores aprovadas da logo."
+      }
+    },
+    "downloadSection": {
+      "title": "Download de Materiais",
+      "description": "Baixe os arquivos oficiais da marca para uso em suas comunicações."
+    },
+    "assets": {
+      "logoPdf": "Logo Principal",
+      "logoPdfDesc": "Logo em formato PDF para impressão e uso digital.",
+      "logoStandard": "Logo Padrão",
+      "logoStandardDesc": "Versão padrão da logo em PDF.",
+      "colors": "Guia de Cores",
+      "colorsDesc": "Paleta de cores oficial em PDF.",
+      "miv": "Manual Completo",
+      "mivDesc": "Manual de Identidade Visual completo.",
+      "colorsPs": "Cores (PS)",
+      "colorsPsDesc": "Arquivo de cores para edição profissional."
+    },
+    "cta": {
+      "title": "Dúvidas sobre o uso da marca?",
+      "description": "Entre em contato conosco para esclarecer qualquer dúvida sobre a utilização da marca Brasil Startups.",
+      "button": "Falar com a Equipe"
+    }
+  },
+  "ict": {
+    "badge": "ICT Brasil Startups",
+    "heroTitle": "Ciência, Tecnologia e Inovação a serviço do crescimento das empresas e startups brasileiras",
+    "heroSubtitle": "O braço de Ciência e Tecnologia da Brasil Startups",
+    "subdomain": "Subdomínio",
+    "connectCta": "Quero me conectar ao ICT Brasil Startups",
+    "whatIsTitle": "O que é o ICT Brasil Startups?",
+    "whatIsDesc1": "A Brasil Startups apresenta o ICT Brasil Startups, um Instituto de Ciência e Tecnologia (ICT) privado, criado para estruturar, executar e transformar Pesquisa, Desenvolvimento e Inovação (PD&I) em vantagem competitiva, impacto econômico e benefício fiscal.",
+    "whatIsHighlight1": "Aqui, ciência encontra mercado.",
+    "whatIsHighlight2": "Inovação deixa de ser custo e passa a ser estratégia.",
+    "features": {
+      "research": "Pesquisa científica aplicada",
+      "development": "Desenvolvimento tecnológico",
+      "transfer": "Transferência de tecnologia",
+      "cooperation": "Projetos cooperados",
+      "governance": "Estruturação e governança de PD&I"
+    },
+    "whyTitle": "Por que um ICT Privado?",
+    "whySubtitle": "Empresas e ecossistemas de alta performance não inovam por acaso. Eles criam ambientes institucionais próprios para desenvolver tecnologia, reduzir riscos e acelerar resultados.",
+    "why": {
+      "why1": "Estruturar projetos contínuos de PD&I",
+      "why2": "Conectar startups, empresas, universidades e pesquisadores",
+      "why3": "Transformar conhecimento científico em soluções de mercado",
+      "why4": "Viabilizar acesso a incentivos fiscais e programas de fomento",
+      "why5": "Fortalecer políticas públicas e agendas estratégicas de inovação"
+    },
+    "forWhomTitle": "Para quem o ICT foi criado",
+    "audiences": {
+      "startups": {
+        "title": "🚀 Startups",
+        "startupsF1": "Desenvolvimento tecnológico estruturado",
+        "startupsF2": "Apoio a deep techs e projetos de alta complexidade",
+        "startupsF3": "Validação científica e tecnológica",
+        "startupsF4": "Acesso a empresas, capital e mercado"
+      },
+      "companies": {
+        "title": "🏢 Empresas",
+        "companiesF1": "Inovação aberta com governança",
+        "companiesF2": "Redução de risco tecnológico",
+        "companiesF3": "Criação de ativos estratégicos e propriedade intelectual",
+        "companiesF4": "Projetos alinhados a ESG e competitividade"
+      },
+      "universities": {
+        "title": "🎓 Universidades & Pesquisadores",
+        "universitiesF1": "Projetos aplicados ao mercado",
+        "universitiesF2": "Transferência de tecnologia",
+        "universitiesF3": "Novas fontes de financiamento",
+        "universitiesF4": "Conexão com startups e empresas"
+      },
+      "government": {
+        "title": "🏛️ Governo & Instituições",
+        "governmentF1": "Execução de políticas públicas de inovação",
+        "governmentF2": "Programas prioritários e setoriais",
+        "governmentF3": "Desenvolvimento econômico e regional"
+      }
+    },
+    "leiBem": {
+      "badge": "Lei do Bem",
+      "title": "Inovação que gera benefício fiscal",
+      "description": "Empresas que investem em Pesquisa, Desenvolvimento e Inovação (PD&I) podem reduzir sua carga tributária por meio da Lei do Bem (Lei nº 11.196/2005). O ICT Brasil Startups atua como ambiente estruturador, executor e validador de projetos elegíveis à Lei do Bem.",
+      "cta": "Quero usar a Lei do Bem com o ICT Brasil Startups",
+      "benefitsTitle": "O que sua empresa pode obter",
+      "benefits": {
+        "leiBemB1": "Deduzir até 34% dos investimentos em PD&I do IRPJ e CSLL",
+        "leiBemB2": "Comprovar tecnicamente os projetos junto ao MCTI",
+        "leiBemB3": "Reduzir riscos jurídicos e operacionais",
+        "leiBemB4": "Criar ativos tecnológicos e propriedade intelectual",
+        "leiBemB5": "Fortalecer sua agenda de inovação e ESG"
+      },
+      "highlight": "Inovação deixa de ser apenas despesa e passa a ser inteligência financeira."
+    },
+    "howWeWorkTitle": "Como atuamos",
+    "howWeWork": {
+      "howWeWork1": "Diagnóstico de elegibilidade à Lei do Bem",
+      "howWeWork2": "Estruturação técnica de projetos de PD&I",
+      "howWeWork3": "Conexão com startups, universidades e pesquisadores",
+      "howWeWork4": "Execução com governança e acompanhamento",
+      "howWeWork5": "Apoio na documentação e relatórios técnicos ao MCTI"
+    },
+    "howWeWorkFooter": "Tudo dentro de um ICT privado, com método, compliance e visão de longo prazo.",
+"cta": {
+      "title": "O chamado",
+      "subtitle": "O ICT Brasil Startups é um convite para quem quer construir tecnologia de verdade, com método, impacto e retorno econômico. Se sua empresa já investe — ou quer investir — em inovação, chegou a hora de estruturar isso de forma estratégica.",
+      "diagnostic": "Agendar diagnóstico de elegibilidade",
+      "startProject": "Iniciar projeto com o ICT Brasil Startups",
+      "learnMore": "Conhecer o ICT"
+    },
+    "closing": {
+      "text": "O futuro da inovação brasileira passa por ciência aplicada, colaboração e estratégia. Com o ICT Brasil Startups, sua empresa inova mais, reduz riscos, acessa incentivos fiscais e gera impacto real no ecossistema.",
+      "tagline": "Ciência. Tecnologia. Startups. Resultado."
+    }
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "all": "Todos"
+  }
+}

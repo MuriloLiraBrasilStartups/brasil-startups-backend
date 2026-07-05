@@ -1,0 +1,23 @@
+
+services:
+  db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: brasilstartups
+    ports:
+      - "5433:5432"
+  redis:
+    image: redis:7-alpine
+    container_name: brasil_startups_redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redisdata:/data
+
+volumes:
+  pgdata:
+  redisdata:

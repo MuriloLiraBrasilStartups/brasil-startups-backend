@@ -1,0 +1,214 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  ADMIN
+  GESTOR
+  ASSOCIADO
+  STARTUP
+  PUBLICO
+}
+
+enum MemberRole {
+  OWNER
+  FOUNDER
+  ADMIN
+  MEMBER
+}
+
+enum MemberStatus {
+  ATIVO
+  INATIVO
+  INADIMPLENTE
+}
+
+enum StartupPhase {
+  IDEACAO
+  VALIDACAO
+  TRACAO
+  SCALE_UP
+}
+
+enum CallingStatus {
+  RASCUNHO
+  ATIVO
+  ENCERRADO
+  CANCELADO
+}
+
+enum SubscriptionStatus {
+  ACTIVE
+  PAST_DUE
+  CANCELED
+  TRIALING
+  INACTIVE
+}
+
+enum PlanType {
+  FREE
+  BASIC
+  PRO
+  ENTERPRISE
+}
+
+enum DocumentType {
+  DECLARACAO_ASSOCIADO
+  CARTA_EXCLUSIVIDADE
+  CERTIFICADO_EVENTO
+}
+
+model User {
+  id           String    @id @default(uuid())
+  name         String
+  email        String    @unique
+  passwordHash String?
+  role         UserRole  @default(PUBLICO)
+  googleId     String?   @unique
+  linkedinId   String?   @unique
+  refreshToken String?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  deletedAt    DateTime?
+
+  memberships      Member[]
+  createdDocuments Document[] @relation("DocumentCreatedBy")
+  callingApplications CallingApplication[]
+
+  @@map("users")
+}
+
+model Startup {
+  id            String       @id @default(uuid())
+  name          String
+  cnpj          String       @unique
+  state         String
+  city          String
+  segment       String
+  phase         StartupPhase @default(IDEACAO)
+  product       String?
+  businessModel String?
+  founders      String[]
+  latitude      Float?
+  longitude     Float?
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  deletedAt     DateTime?
+
+  members      Member[]
+  callings     Calling[]
+  subscription Subscription?
+  documents    Document[]
+
+  @@index([state, city])
+  @@index([segment])
+  @@map("startups")
+}
+
+model Member {
+  id              String       @id @default(uuid())
+  userId          String
+  startupId       String
+  cpfCnpj         String?
+  asaasCustomerId String?      @unique
+  role            MemberRole   @default(MEMBER)
+  status          MemberStatus @default(INATIVO)
+  joinedAt        DateTime     @default(now())
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime     @updatedAt
+  deletedAt       DateTime?
+
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  startup   Startup   @relation(fields: [startupId], references: [id], onDelete: Cascade)
+  documents Document[]
+
+  @@unique([userId, startupId])
+  @@index([startupId])
+  @@index([cpfCnpj])
+  @@map("members")
+}
+
+model Calling {
+  id          String        @id @default(uuid())
+  startupId   String
+  title       String
+  description String
+  status      CallingStatus @default(RASCUNHO)
+  startsAt    DateTime?
+  endsAt      DateTime?
+  formSchema  Json?
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  deletedAt   DateTime?
+
+  startup Startup @relation(fields: [startupId], references: [id], onDelete: Cascade)
+  applications CallingApplication[]
+
+  @@index([startupId])
+  @@index([status])
+  @@map("callings")
+}
+
+model CallingApplication {
+  id        String   @id @default(uuid())
+  callingId String
+  userId    String?
+  applicantName String
+  applicantEmail String
+  stepData  Json
+  score     Int?
+  status    String   @default("SUBMITTED")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  deletedAt DateTime?
+
+  calling Calling @relation(fields: [callingId], references: [id], onDelete: Cascade)
+  user    User?   @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([callingId])
+  @@index([applicantEmail])
+  @@map("calling_applications")
+}
+
+model Subscription {
+  id                  String             @id @default(uuid())
+  startupId           String             @unique
+  asaasSubscriptionId String?            @unique
+  plan                PlanType           @default(FREE)
+  status              SubscriptionStatus @default(INACTIVE)
+  dueDate             DateTime?
+  balance             Decimal            @default(0)
+  createdAt           DateTime           @default(now())
+  updatedAt           DateTime           @updatedAt
+  deletedAt           DateTime?
+
+  startup Startup @relation(fields: [startupId], references: [id], onDelete: Cascade)
+
+  @@map("subscriptions")
+}
+
+model Document {
+  id          String       @id @default(uuid())
+  startupId   String
+  memberId    String?
+  createdById String?
+  type        DocumentType
+  fileUrl     String
+  storageKey  String?
+  metadata    Json?
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  deletedAt   DateTime?
+
+  startup   Startup @relation(fields: [startupId], references: [id], onDelete: Cascade)
+  member    Member?  @relation(fields: [memberId], references: [id], onDelete: SetNull)
+  createdBy User?    @relation("DocumentCreatedBy", fields: [createdById], references: [id], onDelete: SetNull)
+
+  @@index([startupId])
+  @@index([memberId])
+  @@map("documents")
+}

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página Inicial -->
+  <url>
+    <loc>https://brasilstartups.org/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sobre a Associação -->
+  <url>
+    <loc>https://brasilstartups.org/sobre</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Planos de Associação -->
+  <url>
+    <loc>https://brasilstartups.org/planos</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Benefícios para Startups -->
+  <url>
+    <loc>https://brasilstartups.org/beneficios</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contato -->
+  <url>
+    <loc>https://brasilstartups.org/contato</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Projetos e Programas -->
+  <url>
+    <loc>https://brasilstartups.org/projetos</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Transparência e Prestação de Contas -->
+  <url>
+    <loc>https://brasilstartups.org/transparencia</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Fundo de Investimento Endowment -->
+  <url>
+    <loc>https://brasilstartups.org/fundo</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Investidores -->
+  <url>
+    <loc>https://brasilstartups.org/investidores</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ICT - Inovação, Ciência e Tecnologia -->
+  <url>
+    <loc>https://brasilstartups.org/ict</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Diretoria -->
+  <url>
+    <loc>https://brasilstartups.org/diretoria</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Carta de Exclusividade para Contratação Pública -->
+  <url>
+    <loc>https://brasilstartups.org/carta-de-exclusividade</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- DOJO - Capacitação de Startups -->
+  <url>
+    <loc>https://brasilstartups.org/dojo</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Manual de Marca -->
+  <url>
+    <loc>https://brasilstartups.org/brand</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>

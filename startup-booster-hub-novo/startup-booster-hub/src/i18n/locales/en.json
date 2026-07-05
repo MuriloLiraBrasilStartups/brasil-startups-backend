@@ -1,0 +1,610 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "benefits": "Benefits",
+    "dojo": "DOJO",
+    "plans": "Plans",
+    "contact": "Contact",
+    "more": "More",
+    "fund": "Fund",
+    "transparency": "Transparency",
+    "board": "Board",
+    "projects": "Projects",
+    "ict": "ICT",
+    "investors": "Investors",
+    "exclusivityLetter": "Exclusivity Letter",
+    "joinUs": "Join Us"
+  },
+  "hero": {
+    "badge": "Representing startups since 2012",
+    "title": "Empowering Brazil's Startup Ecosystem",
+    "subtitle": "We are the voice of Brazilian startups. Connecting entrepreneurs to public policies, investors, and growth opportunities.",
+    "cta": "View Plans",
+    "ctaSecondary": "Discover DOJO",
+    "stats": {
+      "startups": "Startups",
+      "benefits": "In Benefits",
+      "events": "Events/Year"
+    },
+    "partners": "Partners who trust us"
+  },
+  "about": {
+    "badge": "Who We Are",
+    "title": "The Brazilian Startups Association",
+    "description": "Since 2012, Brasil Startups has been representing Brazilian startups, promoting favorable public policies, entrepreneurial education, and strategic connections.",
+    "mission": {
+      "title": "Mission",
+      "description": "Represent and strengthen the Brazilian startup ecosystem by promoting public policies, education, and networking."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To be the main reference in representation and support for Brazilian startups, driving innovation in the country."
+    },
+    "values": {
+      "title": "Values",
+      "description": "Collaboration, innovation, transparency, diversity, and commitment to ecosystem development."
+    }
+  },
+  "areas": {
+    "badge": "Our Work",
+    "title": "Pillars That Support the Ecosystem",
+    "subtitle": "We work on multiple fronts to strengthen Brazil's innovation environment.",
+    "publicPolicies": {
+      "title": "Public Policies",
+      "description": "We work with the government to create a favorable regulatory environment for startups."
+    },
+    "education": {
+      "title": "Education",
+      "description": "Training and development of entrepreneurs through DOJO and educational programs."
+    },
+    "internationalization": {
+      "title": "Internationalization",
+      "description": "Support for the international expansion of Brazilian startups."
+    },
+    "networking": {
+      "title": "Networking",
+      "description": "Events and meetings for connecting entrepreneurs, investors, and mentors."
+    },
+    "journey": {
+      "title": "Startup Journey",
+      "description": "Support at all stages, from ideation to scale-up."
+    },
+    "knowledge": {
+      "title": "Knowledge",
+      "description": "Content, studies, and research about the startup ecosystem."
+    }
+  },
+  "benefits": {
+    "badge": "Exclusive Benefits",
+    "title": "Over R$180,000 in Benefits",
+    "subtitle": "Access premium tools and services from market-leading partners with exclusive discounts for members.",
+    "viewAll": "View All",
+    "categories": {
+      "cloud": "Cloud & Infrastructure",
+      "saas": "SaaS Tools",
+      "financial": "Financial & Payments",
+      "legal": "Legal",
+      "marketing": "Marketing & Growth",
+      "hr": "HR & Management"
+    },
+    "page": {
+      "title": "Benefits for Members",
+      "subtitle": "Access over R$180,000 in exclusive benefits from market-leading partners.",
+      "viewPlans": "View Plans"
+    }
+  },
+  "dojo": {
+    "badge": "Mentorship Program",
+    "title": "DOJO Brasil Startups",
+    "description": "DOJO is Brasil Startups' mentorship program, developed in partnership with CDT/UnB and Finatec. We offer intensive training for startups at all stages of development.",
+    "learnMore": "Learn More",
+    "accessPortal": "Access DOJO Portal",
+    "features": {
+      "mentoring": {
+        "title": "Specialized Mentoring",
+        "description": "Sessions with market experts"
+      },
+      "networking": {
+        "title": "Qualified Networking",
+        "description": "Connection with founders and investors"
+      },
+      "schedule": {
+        "title": "Intensive Schedule",
+        "description": "October to December 2025"
+      },
+      "certification": {
+        "title": "Certification",
+        "description": "CDT/UnB and Finatec Partnership"
+      }
+    },
+    "page": {
+      "heroTitle": "DOJO Brasil Startups 2025",
+      "heroSubtitle": "The most complete mentorship program for founders seeking strategic growth, business validation, and access to an exclusive network of experts and investors.",
+      "cta": "I Want to Participate",
+      "whatIs": "What is DOJO?",
+      "whatIsDesc": "DOJO is Brasil Startups' mentorship program, developed in partnership with CDT/UnB and Finatec. We train startups at all stages of development with practical methodology and guidance from recognized market experts.",
+      "methodology": "Methodology",
+      "forFounders": "For Founders Seeking",
+      "investment": "Investment",
+      "investmentDesc": "Accessible investment for startups at all stages",
+      "affiliatedValue": "Brasil Startups Members",
+      "regularValue": "Non-members"
+    }
+  },
+  "cta": {
+    "title": "Ready to Accelerate Your Startup?",
+    "description": "Join over 500 startups that are already part of our community. Choose the ideal plan and start enjoying all the exclusive benefits.",
+    "button": "View Plans and Pricing",
+    "secondary": "Talk to the Team"
+  },
+  "plans": {
+    "title": "Choose the Ideal Plan for Your Startup",
+    "subtitle": "Invest in your startup's growth with access to exclusive benefits, mentoring and an engaged community.",
+    "badge": "Flexible Plans",
+    "monthly": "/month",
+    "annual": "/year",
+    "subscribe": "Subscribe to Plan",
+    "popular": "Most Popular",
+    "choose": "Choose",
+    "features": {
+      "comunidade": "Community Access",
+      "eventos": "Exclusive Events",
+      "networking": "Networking",
+      "descontosBasicos": "Basic Discounts",
+      "dojo": "DOJO Program",
+      "mentoria": "Mentoring",
+      "beneficiosPremium": "Premium Benefits (AWS, Azure, etc.)",
+      "suporteVip": "VIP Support"
+    },
+    "planDescriptions": {
+      "trailblazer": "For startups in early validation stage",
+      "builders": "For growing startups",
+      "miners": "For startups in scaling phase"
+    },
+    "calculator": {
+      "title": "Calculate Your Savings",
+      "subtitle": "Select the benefits you plan to use and see how much you can save.",
+      "badge": "Benefits Calculator",
+      "selectBenefits": "Select benefits",
+      "yourSavings": "Estimated Total Savings",
+      "perYear": "/year",
+      "vsPlans": "That's {times}x the Builders plan value!"
+    },
+    "ctaSection": {
+      "title": "Still have questions?",
+      "subtitle": "Our team is ready to help you choose the best plan for your startup.",
+      "button": "Talk to the Team"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help your startup grow. Contact us and discover how we can support your entrepreneurial journey.",
+    "badge": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "sendYourMessage": "Send Your Message",
+      "yourName": "Your name",
+      "yourEmail": "your@email.com",
+      "phonePlaceholder": "(00) 00000-0000",
+      "subjectPlaceholder": "Message subject",
+      "messagePlaceholder": "Write your message here...",
+      "requiredFields": "Required fields",
+      "requiredFieldsDesc": "Please fill in all required fields.",
+      "redirecting": "Redirecting to your email",
+      "completeEmail": "Complete sending in your email client."
+    },
+    "info": {
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "location": "Location"
+    },
+    "letsTalk": "Let's Talk",
+    "letsTalkDesc": "Whether you have questions, want to learn about our plans, or explore partnerships, our team is ready to assist you.",
+    "whatsappCta": "Prefer WhatsApp?",
+    "whatsappDesc": "Quick and direct response. Click below to start a conversation.",
+    "whatsappButton": "Chat on WhatsApp"
+  },
+  "fund": {
+    "title": "Endowment Fund",
+    "subtitle": "Invest in the future of the Brazilian startup ecosystem",
+    "badge": "Social Responsibility",
+    "donate": "Make a Donation",
+    "learnMore": "Learn More",
+    "hero": {
+      "title": "Drive Innovation: Donate and Build the Future with Brasil Startups",
+      "subtitle": "By donating to us, you not only contribute to the development of innovative startups, but also actively participate in building a more equitable and sustainable society.",
+      "cta": "MAKE YOUR DONATION"
+    },
+    "impact": {
+      "card1": "Your donation has the power to transform ideas into tangible realities.",
+      "card2": "Support projects with potential to generate large-scale positive impacts."
+    },
+    "whatIs": {
+      "title": "What is the Endowment Fund?",
+      "what": "What is it?",
+      "whatDesc": "The Brasil Startups Endowment Fund is responsible for social responsibility actions and fostering the entrepreneurship of the future, combining services with social investments to create relevant impacts on society.",
+      "mission": "Our Mission",
+      "missionDesc": "Contribute to the entry of new technical professionals into the positions that will emerge by 2030, the sector should open more than 700 thousand positions."
+    },
+    "areas": {
+      "title": "Our Market Action",
+      "subtitle": "Sustainability is one of our pillars, so we encourage and support the development of the communities in which we operate.",
+      "education": {
+        "title": "Education",
+        "description": "Improvement of managers and teachers, classroom technologies and young people prepared for the job market. Investing in the future of education is investing in the future of Brazil!"
+      },
+      "entrepreneurship": {
+        "title": "Entrepreneurship",
+        "description": "Invest in startups and boost the economy! Support ideas: Capitalize the future, create solutions and generate impact. Together: Let's build a vibrant and competitive ecosystem."
+      },
+      "sustainability": {
+        "title": "Sustainability (ESG)",
+        "description": "Support innovative projects that reduce carbon emissions and promote a sustainable future for everyone. Join us and build a greener tomorrow! Invest in Sustainability!"
+      },
+      "invest": "Invest in"
+    },
+    "stats": {
+      "title": "By 2025, the demand for professionals with digital skills will reach 797 thousand",
+      "source": "BRASSCOM Data"
+    },
+    "benefits": {
+      "title": "Be Part of the Revolution",
+      "reputation": {
+        "title": "Amplify your public reputation.",
+        "description": "Elevate your profile: invest in initiatives that reflect positively on your image and strengthen your market presence."
+      },
+      "marketing": {
+        "title": "Enhance your marketing strategies",
+        "description": "Maximize your marketing reach with innovative approaches and authentic engagement, elevating your brand."
+      },
+      "esg": {
+        "title": "Score on your organization's ESG policy",
+        "description": "Contribute to sustainability, social responsibility and governance, reinforcing your company's commitment to ESG."
+      },
+      "community": {
+        "title": "Connect your business with the local community",
+        "description": "Strengthen ties with local communities through strategic partnerships, benefiting your business and the environment in which you operate."
+      }
+    },
+    "howItWorks": {
+      "title": "Understand How It Works",
+      "subtitle": "Learn the entire investment flow with the complete management structure: Board of Directors, Investment Committee and Fiscal Council"
+    },
+    "donation": {
+      "title": "Make Your Donation Now",
+      "fundName": "Brasil Startups Fund",
+      "description": "Help transform the future of our community! Your donation is essential to qualify managers and teachers, innovate in educational technologies and prepare young people for the job market. Contribute now and be part of this positive change!",
+      "scanQr": "Scan the QR Code to donate"
+    },
+    "faq": {
+      "title": "Questions Clear Your Doubts"
+    }
+  },
+  "transparency": {
+    "title": "Transparency",
+    "subtitle": "Learn about our projects and initiatives to strengthen the startup ecosystem.",
+    "badge": "Transparency & Projects",
+    "heroTitle": "Our Projects",
+    "heroSubtitle": "Brasil Startups has projects to encourage, promote and train startups in the Federal District and surroundings. Discover our initiatives!",
+    "stats": {
+      "projects": "Active Projects",
+      "entrepreneurs": "Entrepreneurs Impacted",
+      "investment": "Investment Mobilized",
+      "trainings": "Trainings Completed"
+    },
+    "visitSite": "Visit the site",
+    "indicators": "Indicators Panel",
+    "cta": {
+      "title": "Want to be part of our projects?",
+      "subtitle": "Contact us and find out how to participate in our initiatives to foster the startup ecosystem.",
+      "button": "Contact us"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Discover our initiatives to strengthen the startup ecosystem.",
+    "badge": "Our Initiatives",
+    "heroTitle": "Our Projects",
+    "heroSubtitle": "Brasil Startups develops incentive, promotion and training projects for startups. Discover our initiatives that impact entrepreneurs across Brazil!",
+    "stats": {
+      "projects": "Active Projects",
+      "entrepreneurs": "Entrepreneurs Impacted",
+      "investment": "Investment Mobilized",
+      "trainings": "Trainings Completed"
+    },
+    "visitSite": "Visit Site",
+    "learnMore": "Learn More",
+    "indicators": "Indicators Panel",
+    "cta": {
+      "title": "Want to be part of our projects?",
+      "subtitle": "Contact us and find out how to participate in our initiatives or become a member to access all benefits.",
+      "button": "Contact Us",
+      "joinButton": "Join Us"
+    }
+  },
+  "board": {
+    "title": "Board of Directors",
+    "subtitle": "Meet the leaders who work to strengthen the startup ecosystem in Brazil.",
+    "badge": "Our Team",
+    "executive": "Executive Board",
+    "executiveDesc": "Strategic and operational leadership of the association.",
+    "directors": "Directors",
+    "directorsDesc": "Responsible for strategic areas of the association.",
+    "advisors": "Advisors",
+    "advisorsDesc": "Strategic guidance and oversight of activities.",
+    "viewLinkedIn": "View LinkedIn profile",
+    "roles": {
+      "president": "President",
+      "vicePresident": "Vice President",
+      "adminFinance": "Administrative and Financial Director",
+      "rdDirector": "R&D Director",
+      "fiscalCouncil": "Fiscal Council",
+      "advisor": "Advisor"
+    }
+  },
+  "aboutPage": {
+    "badge": "Who We Are",
+    "title": "The Brazilian Startups Association",
+    "subtitle": "Since 2012, Brasil Startups has been representing Brazilian startups, connecting entrepreneurs to investment funds, accelerators and large companies.",
+    "stats": {
+      "founded": "Year Founded",
+      "startups": "Associated Startups",
+      "events": "Events per Year",
+      "benefits": "In Benefits"
+    },
+    "history": {
+      "title": "Our History",
+      "p1": "Brasil Startups was born from the purpose of inspiring, training and supporting the development of the startup ecosystem. We generate personal connections, seeking to share knowledge with the purpose of fostering the innovation ecosystem, social and economic development.",
+      "p2": "We connect our members to investment funds and accelerators, lead outreach actions with the Government and large companies, and promote events across the country.",
+      "p3": "We are plural: entrepreneurs, government entities, large companies, investment funds, coworking spaces, accelerators and incubators, all essential for the different stages of a startup entrepreneur's journey."
+    },
+    "community": "Our Community",
+    "valuesTitle": "Mission, Vision and Values",
+    "valuesSubtitle": "The principles that guide our work in the startup ecosystem.",
+    "mission": {
+      "title": "Mission",
+      "description": "Inspire, train and support the development of the startup ecosystem, generating connections and sharing knowledge to foster innovation and social and economic development."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To be the main reference in representation and support for Brazilian startups, driving innovation and entrepreneurship in the country."
+    },
+    "values": {
+      "title": "Values",
+      "description": "Collaboration, innovation, transparency, diversity and commitment to sustainable development of the startup ecosystem."
+    },
+    "pillarsTitle": "Pillars of Action",
+    "pillarsSubtitle": "We work on multiple fronts to strengthen the innovation environment in Brazil.",
+    "pillars": {
+      "policies": {
+        "title": "Public Policies",
+        "description": "We are representative agents, exerting influence on government policies in favor of Brazilian startups."
+      },
+      "education": {
+        "title": "Education",
+        "description": "We train future and current entrepreneurs through actions, mentoring and the DOJO program."
+      },
+      "internationalization": {
+        "title": "Internationalization",
+        "description": "We promote startup exchange, fostering the exchange of experience and growth on a global scale."
+      },
+      "networking": {
+        "title": "Networking",
+        "description": "We promote activities and events to develop our network of members and generate connections and opportunities."
+      }
+    },
+    "fund": {
+      "badge": "Social Responsibility",
+      "title": "Endowment Fund",
+      "p1": "The Brasil Startups Endowment Fund is responsible for social responsibility actions and fostering the entrepreneurship of the future, combining services with social investments to create relevant impacts on society.",
+      "p2": "We promote actions, contribute locally to UN global programs and work with public opinion mobilization to promote the Sustainable Development Goals (SDGs) of the United Nations 2030 Agenda."
+    },
+    "directorsTitle": "Board of Directors",
+    "directorsSubtitle": "Meet the members of the Brasil Startups board.",
+    "advisorsTitle": "Advisors",
+    "structureTitle": "Organizational Structure",
+    "structure": {
+      "executive": {
+        "name": "Executive Board",
+        "role": "Strategic and operational management of the association"
+      },
+      "fiscal": {
+        "name": "Fiscal Council",
+        "role": "Oversight and transparency of activities"
+      },
+      "advisory": {
+        "name": "Advisory Board",
+        "role": "Strategic guidance and mentoring"
+      }
+    }
+  },
+  "footer": {
+    "description": "Brazil's largest startup community. Representation, networking, and growth since 2012.",
+    "institutional": "Institutional",
+    "associates": "Members",
+    "resources": "Resources",
+    "contact": "Contact",
+    "partner": "Partner",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "brandManual": "Brand Guidelines"
+  },
+  "brand": {
+    "badge": "Visual Identity",
+    "title": "Brand Guidelines",
+    "subtitle": "Resources and guidelines for partners and sponsors to correctly use the Brasil Startups brand.",
+    "download": "Download",
+    "logoSection": {
+      "title": "Our Logo",
+      "description": "The Brasil Startups logo must be used respecting the defined proportions and spacing.",
+      "lightBg": "Light Background",
+      "darkBg": "Dark Background"
+    },
+    "colorsSection": {
+      "title": "Color Palette",
+      "description": "Use only the official brand colors to maintain visual consistency."
+    },
+    "colors": {
+      "primaryDesc": "Primary brand color",
+      "accentDesc": "Accent color",
+      "lightDesc": "Light backgrounds and elements",
+      "darkDesc": "Dark texts and elements"
+    },
+    "guidelinesSection": {
+      "title": "Usage Guidelines",
+      "description": "Follow these guidelines to ensure correct brand usage."
+    },
+    "guidelines": {
+      "spacing": {
+        "title": "Clear Space",
+        "description": "Maintain a breathing area around the logo equivalent to the symbol height."
+      },
+      "contrast": {
+        "title": "Proper Contrast",
+        "description": "Ensure the logo has sufficient contrast with the background for good readability."
+      },
+      "distortion": {
+        "title": "No Distortions",
+        "description": "Never distort, stretch, or modify the logo proportions."
+      },
+      "colors": {
+        "title": "Official Colors",
+        "description": "Use only approved color versions of the logo."
+      }
+    },
+    "downloadSection": {
+      "title": "Download Materials",
+      "description": "Download official brand files for use in your communications."
+    },
+    "assets": {
+      "logoPdf": "Main Logo",
+      "logoPdfDesc": "Logo in PDF format for print and digital use.",
+      "logoStandard": "Standard Logo",
+      "logoStandardDesc": "Standard version of the logo in PDF.",
+      "colors": "Color Guide",
+      "colorsDesc": "Official color palette in PDF.",
+      "miv": "Complete Manual",
+      "mivDesc": "Complete Visual Identity Manual.",
+      "colorsPs": "Colors (PS)",
+      "colorsPsDesc": "Color file for professional editing."
+    },
+    "cta": {
+      "title": "Questions about brand usage?",
+      "description": "Contact us to clarify any questions about using the Brasil Startups brand.",
+      "button": "Talk to the Team"
+    }
+  },
+  "ict": {
+    "badge": "ICT Brasil Startups",
+    "heroTitle": "Science, Technology and Innovation at the service of Brazilian companies and startups growth",
+    "heroSubtitle": "The Science and Technology arm of Brasil Startups",
+    "subdomain": "Subdomain",
+    "connectCta": "I want to connect to ICT Brasil Startups",
+    "whatIsTitle": "What is ICT Brasil Startups?",
+    "whatIsDesc1": "Brasil Startups presents ICT Brasil Startups, a private Science and Technology Institute (ICT), created to structure, execute and transform Research, Development and Innovation (R&D&I) into competitive advantage, economic impact and tax benefits.",
+    "whatIsHighlight1": "Here, science meets the market.",
+    "whatIsHighlight2": "Innovation stops being a cost and becomes a strategy.",
+    "features": {
+      "research": "Applied scientific research",
+      "development": "Technological development",
+      "transfer": "Technology transfer",
+      "cooperation": "Cooperative projects",
+      "governance": "R&D&I structuring and governance"
+    },
+    "whyTitle": "Why a Private ICT?",
+    "whySubtitle": "High-performance companies and ecosystems don't innovate by chance. They create their own institutional environments to develop technology, reduce risks and accelerate results.",
+    "why": {
+      "why1": "Structure continuous R&D&I projects",
+      "why2": "Connect startups, companies, universities and researchers",
+      "why3": "Transform scientific knowledge into market solutions",
+      "why4": "Enable access to tax incentives and funding programs",
+      "why5": "Strengthen public policies and strategic innovation agendas"
+    },
+    "forWhomTitle": "Who was the ICT created for",
+    "audiences": {
+      "startups": {
+        "title": "🚀 Startups",
+        "startupsF1": "Structured technological development",
+        "startupsF2": "Support for deep techs and high complexity projects",
+        "startupsF3": "Scientific and technological validation",
+        "startupsF4": "Access to companies, capital and market"
+      },
+      "companies": {
+        "title": "🏢 Companies",
+        "companiesF1": "Open innovation with governance",
+        "companiesF2": "Technological risk reduction",
+        "companiesF3": "Creation of strategic assets and intellectual property",
+        "companiesF4": "Projects aligned with ESG and competitiveness"
+      },
+      "universities": {
+        "title": "🎓 Universities & Researchers",
+        "universitiesF1": "Market-applied projects",
+        "universitiesF2": "Technology transfer",
+        "universitiesF3": "New funding sources",
+        "universitiesF4": "Connection with startups and companies"
+      },
+      "government": {
+        "title": "🏛️ Government & Institutions",
+        "governmentF1": "Execution of public innovation policies",
+        "governmentF2": "Priority and sector programs",
+        "governmentF3": "Economic and regional development"
+      }
+    },
+    "leiBem": {
+      "badge": "Lei do Bem (Good Law)",
+      "title": "Innovation that generates tax benefits",
+      "description": "Companies that invest in Research, Development and Innovation (R&D&I) can reduce their tax burden through Lei do Bem (Law nº 11.196/2005). ICT Brasil Startups acts as a structuring, executing and validating environment for Lei do Bem eligible projects.",
+      "cta": "I want to use Lei do Bem with ICT Brasil Startups",
+      "benefitsTitle": "What your company can achieve",
+      "benefits": {
+        "leiBemB1": "Deduct up to 34% of R&D&I investments from IRPJ and CSLL",
+        "leiBemB2": "Technically prove projects to MCTI",
+        "leiBemB3": "Reduce legal and operational risks",
+        "leiBemB4": "Create technological assets and intellectual property",
+        "leiBemB5": "Strengthen your innovation and ESG agenda"
+      },
+      "highlight": "Innovation stops being just an expense and becomes financial intelligence."
+    },
+    "howWeWorkTitle": "How we work",
+    "howWeWork": {
+      "howWeWork1": "Lei do Bem eligibility diagnosis",
+      "howWeWork2": "Technical structuring of R&D&I projects",
+      "howWeWork3": "Connection with startups, universities and researchers",
+      "howWeWork4": "Execution with governance and monitoring",
+      "howWeWork5": "Support in documentation and technical reports to MCTI"
+    },
+    "howWeWorkFooter": "All within a private ICT, with method, compliance and long-term vision.",
+"cta": {
+      "title": "The call",
+      "subtitle": "ICT Brasil Startups is an invitation for those who want to build real technology, with method, impact and economic return. If your company already invests — or wants to invest — in innovation, it's time to structure this strategically.",
+      "diagnostic": "Schedule eligibility diagnosis",
+      "startProject": "Start a project with ICT Brasil Startups",
+      "learnMore": "Learn about ICT"
+    },
+    "closing": {
+      "text": "The future of Brazilian innovation passes through applied science, collaboration and strategy. With ICT Brasil Startups, your company innovates more, reduces risks, accesses tax incentives and generates real impact on the ecosystem.",
+      "tagline": "Science. Technology. Startups. Results."
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All"
+  }
+}
